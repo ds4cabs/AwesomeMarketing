@@ -13,13 +13,16 @@ We invite you to explore the repository, contribute to the project, and utilize 
 ## Table of Content
 
 ### Marketing Strategies
- - **Brand Positioning**
+
+[Marketing Strategies](https://github.com/ds4cabs/AwesomeMarketing/tree/Marketing-Learning-Hub/Marketing_Strategies)
+
+ - **[Brand Positioning](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Brand_Positioning)**
      - What is Brand Positioning?
-     - [Relevant Project](#relevant-project)
-- **Market Segmentation**
+     - Examples 
+- **[Market Segmentation](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Market_Segmentation)**
      - What is Market Segmentation?
      - Segmentation Analysis techniques
-- **Competitive Analysis**
+- **[Competitive Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Competitive_Analysis)**
      - what is Competitive Anlaysis?
      - SWOT Analysis 
      - PEST analysis
