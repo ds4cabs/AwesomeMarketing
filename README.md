@@ -24,6 +24,7 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - SWOT Analysis 
      - PEST analysis
 
+
 ### Analytics
 - **Web Analytics Tools**
      - Google Analytics
@@ -56,3 +57,9 @@ We invite you to explore the repository, contribute to the project, and utilize 
 [Pandas](https://github.com/jvns/pandas-cookbook)
 
 [Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
+
+[Python Practice Data](https://github.com/data-8)
+
+[Marketing Strategy Template](https://www.aha.io/roadmapping/guide/marketing-templates/market-positioning-templates)
+
+[Learning more Programming languages](https://www.codedex.io/home)
