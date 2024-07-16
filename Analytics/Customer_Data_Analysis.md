@@ -17,8 +17,12 @@ In today's data-driven world, the ability to analyze customer data effectively i
 
 **Tutorials and Sources**
 
--  [Python TextBook & Practice Data](https://github.com/data-8) : by UC Berkeley
+-  [Download Jypyter Notebook](https://jupyter.org/)
+-  [Textbook](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf) : OpenStax
+-  [Readings & Practice Data](https://github.com/data-8) : UC Berkeley Data c8 
 -  [Pandas](https://github.com/jvns/pandas-cookbook)
+
+
 
 ### R
 
@@ -28,7 +32,10 @@ In today's data-driven world, the ability to analyze customer data effectively i
 
 **Tutorials and Sources**
 
-- [Social Media Analytics with R](https://github.com/dipanjanS/learning-social-media-analytics-with-r) 
+-  [R Studio Desktop](https://posit.co/download/rstudio-desktop/)
+-  [Shiny Apps](https://www.shinyapps.io/)
+-  [R Tutorials](https://github.com/gastonstat/stat133?tab=readme-ov-file): UC Berkeley Stat 133 Prof. Gaston Sanchez
+-  [Social Media Analytics with R](https://github.com/dipanjanS/learning-social-media-analytics-with-r) 
 
 
 ### SAS
@@ -38,6 +45,8 @@ In today's data-driven world, the ability to analyze customer data effectively i
 **Usage in Marketing**: SAS is often employed in large enterprises for market research, customer profiling, and campaign effectiveness analysis. Its ability to handle large volumes of da
 
 **Tutorials and Sources**
+
+-  [Tutorial videos](https://youtube.com/playlist?list=PLVV6eZFA22QwrXd6nSDU18E6XgXSMOs87&si=Nr-YnESHGLAwOKoX)
 
 
 
