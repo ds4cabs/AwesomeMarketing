@@ -53,15 +53,8 @@ We invite you to explore the repository, contribute to the project, and utilize 
 
 ### Additional Relevant Sources
 
-[Social Media Analytics with R](https://github.com/dipanjanS/learning-social-media-analytics-with-r)
-
-[Data Science Tool](https://github.com/academic/awesome-datascience)
-
-[Pandas](https://github.com/jvns/pandas-cookbook)
 
 [Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
-
-[Python Practice Data](https://github.com/data-8)
 
 [Marketing Strategy Template](https://www.aha.io/roadmapping/guide/marketing-templates/market-positioning-templates)
 
