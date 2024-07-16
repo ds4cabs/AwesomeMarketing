@@ -20,22 +20,25 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - What is Market Segmentation?
      - Segmentation Analysis techniques
 - **[Competitive Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Competitive_Analysis.md)**
-     - what is Competitive Anlaysis?
+     - What is Competitive Anlaysis?
      - SWOT Analysis 
-     - PEST analysis
+     - PESTLE analysis
 
 
-### Analytics
-- **Web Analytics Tools**
+### [Analytics](https://github.com/ds4cabs/AwesomeMarketing/tree/main/Analytics)
+- **[Web Analytics Tools](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Analytics/Web_Analytics_Tools.md)**
      - Google Analytics
      - Key Metrics Explanation
      - Online Tutorials
--  **Customer Data Analysis**
+-  **[Customer Data Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Analytics/Customer_Data_Analysis.md)**
      - Python Tutorials
      - R Tutorials 
      - SAS Tutorials
 - **Marketing Campaign Analysis**
-     - Methods for Measuring Campaign Performance (CTR, CPA, ROI)
+     - Methods for Measuring Campaign Performance
+     - CTR (Click-Through Rate)
+     - CPA (Cost Per Acquisition)
+     - ROI (Return on Investment)
 
 ### Pricing and Revenue Management
 - **Pricing Strategies**
