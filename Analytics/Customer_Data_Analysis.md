@@ -19,7 +19,8 @@ In today's data-driven world, the ability to analyze customer data effectively i
 
 -  [Download Jypyter Notebook](https://jupyter.org/)
 -  [Textbook](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf) : OpenStax
--  [Readings & Practice Data](https://github.com/data-8) : UC Berkeley Data c8 
+-  [Readings](https://inferentialthinking.com/chapters/01/what-is-data-science.html) : by UC Berkeley Data 8 
+-  [Readings & Practice Data](https://github.com/data-8) : by UC Berkeley Data 8
 -  [Pandas](https://github.com/jvns/pandas-cookbook)
 
 
