@@ -12,32 +12,33 @@ We invite you to explore the repository, contribute to the project, and utilize 
 
 ## Table of Content
 
-### Marketing Strategies
-
-[Marketing Strategies](https://github.com/ds4cabs/AwesomeMarketing/tree/Marketing-Learning-Hub/Marketing_Strategies)
-
- - **[Brand Positioning](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Brand_Positioning)**
+### [Marketing Strategies](https://github.com/ds4cabs/AwesomeMarketing/tree/main/Marketing_Strategies)
+ - **[Brand Positioning](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Brand_Positioning.md)**
      - What is Brand Positioning?
-     - Examples 
-- **[Market Segmentation](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Market_Segmentation)**
+     - Relevant Sources
+- **[Market Segmentation](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Market_Segmentation.md)**
      - What is Market Segmentation?
      - Segmentation Analysis techniques
-- **[Competitive Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Competitive_Analysis)**
-     - what is Competitive Anlaysis?
+- **[Competitive Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Marketing_Strategies/Competitive_Analysis.md)**
+     - What is Competitive Anlaysis?
      - SWOT Analysis 
-     - PEST analysis
+     - PESTLE analysis
 
-### Analytics
-- **Web Analytics Tools**
+
+### [Analytics](https://github.com/ds4cabs/AwesomeMarketing/tree/main/Analytics)
+- **[Web Analytics Tools](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Analytics/Web_Analytics_Tools.md)**
      - Google Analytics
      - Key Metrics Explanation
      - Online Tutorials
--  **Customer Data Analysis**
+-  **[Customer Data Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Analytics/Customer_Data_Analysis.md)**
      - Python Tutorials
      - R Tutorials 
      - SAS Tutorials
 - **Marketing Campaign Analysis**
-     - Methods for Measuring Campaign Performance (CTR, CPA, ROI)
+     - Methods for Measuring Campaign Performance
+     - CTR (Click-Through Rate)
+     - CPA (Cost Per Acquisition)
+     - ROI (Return on Investment)
 
 ### Pricing and Revenue Management
 - **Pricing Strategies**
@@ -50,4 +51,11 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - Overview Dynamic Pricing Models
      - Pricing Models of Airbnb, Uber
 
-### Additional Relevant Topics
+### Additional Relevant Sources
+
+
+[Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
+
+[Marketing Strategy Template](https://www.aha.io/roadmapping/guide/marketing-templates/market-positioning-templates)
+
+[Learning more Programming languages](https://www.codedex.io/home)
