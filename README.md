@@ -34,11 +34,11 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - Python Tutorials
      - R Tutorials 
      - SAS Tutorials
-- **Marketing Campaign Analysis**
-     - Methods for Measuring Campaign Performance
-     - CTR (Click-Through Rate)
-     - CPA (Cost Per Acquisition)
-     - ROI (Return on Investment)
+- **[Marketing Campaign Analysis](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Analytics/Marketing%20Campaign%20Analysis.md)**
+     - Surveys and Feedback
+     - A/B Testing
+     - CTR, CTA, ROI
+     - Analytics Tools
 
 ### Pricing and Revenue Management
 - **Pricing Strategies**
