@@ -51,6 +51,8 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - Design and Analysis Methods
      - Pricing Models of Airbnb, Uber
 
+- [CABS Pricing Strategy Project](https://github.com/ds4cabs/CABSPriceStrategy)
+
 ### Additional Relevant Sources
 
 
