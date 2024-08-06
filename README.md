@@ -43,15 +43,14 @@ We invite you to explore the repository, contribute to the project, and utilize 
 ### [Pricing and Revenue Management](https://github.com/ds4cabs/AwesomeMarketing/tree/main/Pricing_Management)
 - **Pricing Strategies**
      - Overview Pricing strategies, concepts
-     - Tiered Pricing
-     - Bundling
+
 
 - **Dynamic Pricing Models**
      - Overview Dynamic Pricing Models
      - Design and Analysis Methods
      - Pricing Models of Airbnb, Uber
 
-- [CABS Pricing Strategy Project](https://github.com/ds4cabs/CABSPriceStrategy)
+- **[CABS Pricing Strategy Project](https://github.com/ds4cabs/CABSPriceStrategy)**
 
 ### Additional Relevant Sources
 
