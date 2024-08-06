@@ -40,15 +40,15 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - CTR, CTA, ROI
      - Analytics Tools
 
-### Pricing and Revenue Management
+### [Pricing and Revenue Management](https://github.com/ds4cabs/AwesomeMarketing/tree/main/Pricing_Management)
 - **Pricing Strategies**
      - Overview Pricing strategies, concepts
-     - Skimming, Penetration
-- **A/B Testing for Pricing**
-     - Design and Analysis Methods
-     - Case Studies
+     - Tiered Pricing
+     - Bundling
+
 - **Dynamic Pricing Models**
      - Overview Dynamic Pricing Models
+     - Design and Analysis Methods
      - Pricing Models of Airbnb, Uber
 
 ### Additional Relevant Sources
