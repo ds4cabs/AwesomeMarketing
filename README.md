@@ -41,11 +41,11 @@ We invite you to explore the repository, contribute to the project, and utilize 
      - Analytics Tools
 
 ### [Pricing and Revenue Management](https://github.com/ds4cabs/AwesomeMarketing/tree/main/Pricing_Management)
-- **Pricing Strategies**
+- **[Pricing Strategies](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Pricing_Management/Pricing_Strategies.md)**
      - Overview Pricing strategies, concepts
 
 
-- **Dynamic Pricing Models**
+- **[Dynamic Pricing Models](https://github.com/ds4cabs/AwesomeMarketing/blob/main/Pricing_Management/Dynamic_Pricing_Models.md)**
      - Overview Dynamic Pricing Models
      - Design and Analysis Methods
      - Pricing Models of Airbnb, Uber
