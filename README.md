@@ -1,4 +1,4 @@
-<p align="center"><h1>🧠 Awesome Marketing Learning Hub</h1></p>
+<p align="center"><h1>🧠 Awesome Marketing Learning Hub 🤩 </h1></p> 
 
 Welcome to the **Awesome Marketing Hub** repository! This is a collection of the most popular and useful information, tools, and guidelines for the marketing field, with a strong focus on analytics and strategy. 
 
@@ -9,6 +9,20 @@ In this repository, you'll find a comprehensive assortment of resources designed
 We invite you to explore the repository, contribute to the project, and utilize the tools and information provided to advance your marketing initiatives. Let's work together to elevate marketing practices through collaboration and innovation !!
 
 ## How to Use and Contribute
+
+
+### **How to Use**
+
+To get started, please refer to the [GitHub Hello World guide](https://docs.github.com/en/get-started/start-your-journey/hello-world). This guide will walk you through the basics of using GitHub, including how to set up a repository and make your first contribution.
+
+### **How to Contribute**
+
+If you’d like to contribute to this repository, please start by forking the repository to your own GitHub account. After making your changes, engage with the community by reviewing and discussing pull requests.
+
+### **Code of Conduct**
+
+- Be respectful and maintain a collaborative environment. 🙏
+
 
 ## Table of Content
 
