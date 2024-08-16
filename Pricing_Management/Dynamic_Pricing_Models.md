@@ -31,6 +31,8 @@ Dynamic pricing, also known as surge pricing, time-based pricing, or demand pric
     [Link to article](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-dos-and-donts-of-dynamic-pricing-in-retail)
 2. **Amazon Pricing Strategy 2023**
     [Link to article](https://www.symson.com/blog/amazon-pricing-strategy-2023-the-ultimate-pricing-guide-for-ecommerce-businesses-on-amazon)
+3. **Unlocking Dynamic Pricing in Data Science**
+    [Link to article](https://www.tredence.com/blog/unlocking-dynamic-pricing-a-comprehensive-guide-to-realtime-market-adjustments)
 
 
 ### **Case Study** ###
